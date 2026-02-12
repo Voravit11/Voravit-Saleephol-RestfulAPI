@@ -13,3 +13,7 @@ data db (ไม่รู้ว่าดูได้ไหม): https://supabase.
 รหัส admin User:admin Pass:1234
 
 <img width="239" height="242" alt="image" src="https://github.com/user-attachments/assets/52cfa8fe-ec34-447a-898d-2a59e7a8c018" />
+EAEFEF
+BFC9D1
+25343F
+FF9B51
