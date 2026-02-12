@@ -1,5 +1,7 @@
 # VoravitRestfulAPI
 
+สิงที่ยังไม่มีและจะเพิ่ม: 1 ระบุจำนวน 2 ทำให้ admin ราค่าและชื่อสินค้า 3 กดชำระแล้วปรินในเสร็จ
+
 เข้าดูเว็บเต็ม: https://q3k8kd.csb.app/
 
 เข้าดูหน้าโค้ด: https://codesandbox.io/p/sandbox/api-q3k8kd
