@@ -17,3 +17,4 @@ EAEFEF
 BFC9D1
 25343F
 FF9B51
+https://chatgpt.com/share/698ec86e-494c-8001-89cf-e27833e72fc5
